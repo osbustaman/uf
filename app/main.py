@@ -20,7 +20,7 @@ def create_app():
                 'value': uf['value'],
                 'accion': 'success',
             }
-            return jsonify(response)
+            return jsonify(response), 200
         except ValueError:
             response = {
                 'accion': 'error',
