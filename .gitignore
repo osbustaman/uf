@@ -3,3 +3,5 @@ app/__pycache__/main.cpython-310.pyc
 app/api/__pycache__/IndicadorEconomicoAPI.cpython-310.pyc
 
 
+test/__pycache__/test_app.cpython-310-pytest-7.3.1.pyc
+app/api/__pycache__/IndicatorEconomicAPI.cpython-310.pyc
